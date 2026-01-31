@@ -5,3 +5,10 @@ Thumbs.db
 desktop.ini
 *.tmp
 *.exe
+
+# macOS 系統檔案
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+.TemporaryItems
